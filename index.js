@@ -15,7 +15,7 @@ app.get('/', (req, res) => {
 
 // hello world route
 app.get('/api', (req, res) => {
-    res.send('Hello World!');
+    res.send('Hello coder!');
 });
 
 // get all pets from the database
